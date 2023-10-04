@@ -63,75 +63,76 @@ sóc hoa.
 ## :sunflower: Screenshots
 ### :cherries: Trang web cho client
 - Trang đăng kí
-![1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/e6c23a27-44b5-4686-b88d-6ae68d793953)
+![1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/b14201a3-e040-4952-871d-e2a7791d47d2)
 
 - Trang đăng nhập
-![1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/7adfb9de-4fb9-42c2-8ad6-ac40652e9edf)
+![2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/605f9035-cff2-46bf-a30f-ebc45363231e)
 
 - Hoặc đăng nhập bằng google
-![3](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/3f87bb0c-ad10-4697-9115-6c0f0551e788)
+![3](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/b9363201-a299-4eda-87a2-69916bd711c8)
 
 - Xem thông tin cá nhân
-![4](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/f4872a2c-eb3b-478d-9a50-4728e0077600)
+![4](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/f450a922-71d5-41ae-ae70-7604b1d5e27b)
 
 - Trang chủ
-![5](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/a45b7eb4-2bb6-4ecc-a654-0ead441730ee)
+![5](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/9fd832e2-09d4-4abb-8ad2-9d6e7877ca17)
 
 - Trang sản phẩm
-  ![6](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/8ca4e78f-d62e-4e34-89f5-2bb2eedd35ee)
+![6](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/83b56e9a-9ecd-45dc-9af0-885dc9e1e1d3)
 
 - Tìm kiếm sản phẩm theo từ khóa
-  ![7](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/b24da597-346a-40f6-a445-ffbc352584f6)
+![7](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/64e32b9f-3b2b-4e14-b0c9-3c2403438839)
 
 - Chi tiết sản phẩm
-  ![8 1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/ca0b3343-6072-43c5-8385-ce3569ea44de)
-  ![8 2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/ff049c60-5987-4fc9-b8e3-b9c44224e880)
+ ![8 1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/db80f8d7-761b-4edc-a780-099aced885ae)
+![8 2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/a1d316d5-21e4-435f-8760-617621e474ae)
 
 - Giỏ hàng
-  ![9](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/a4d9fc8f-04d5-422a-b8d5-38b7fe43a898)
+![9](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/05d88ecf-9269-4078-bd3f-a38cac8dc143)
 
 - Đặt hàng
-  ![10 1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/2b840d2c-d4f4-4221-8dec-3b9f3dad653d)
-  ![10 2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/6b025ef4-96cf-46fb-adeb-c35d875b3042)
+  ![10 1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/8d6cdc78-90c0-4e5c-a6c1-129f533e91ad)
+![10 2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/8ca3d298-4d9a-4e35-806b-b39e1a7369c4)
 
 - Xem lịch sử mua hàng
-  ![11](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/c555e864-a2c1-4441-9630-1987e6398cf1)
+ ![11](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/3c549fc1-f6ea-4278-a555-8879baa30f96)
 
 - Trang blog
-  ![12](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/ba1ff785-b0f6-4b3a-a307-5c06ddd63706)
+ ![12](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/e4e0b20e-8c22-4103-9383-c26b214e8a74)
 
 - Thông báo
-  ![13](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/688cc1c1-1649-4c7c-9be3-1ac014e72e94)
+ ![13](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/b14ec50a-5cf1-4ad6-85e2-ff13f4b0534a)
+
 
 ### :cherries: Trang quản trị cho admin
 - Trang đăng nhập
-![1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/a6302944-c6c2-4ae3-9f63-b29ff5bcbf9d)
+![1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/f2c35097-9bda-40f5-a64c-f6f2ef1b4297)
 
 - Xem thông tin cá nhân
-  ![2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/d1d81075-ae1d-4e04-98dd-63e5104465d4)
+![2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/15485ef1-3342-4343-a70b-e43f2c00540f)
 
 - Trang quản lí sản phẩm
-  ![3](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/067e96bc-f7b0-426d-8481-aa34e0615b06)
+ ![3](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/22b2660d-afb8-408a-a480-0ac1d24dfa76)
 
 - Chi tiết sản phẩm
-  ![4](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/4e6176fe-de11-4745-af01-84483218a7e3)
+![4](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/ce740070-733f-4fe2-8596-c13f46c06202)
 
 - Thêm sản phẩm
-  ![5 1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/fb6e6f5e-9aff-44a9-bf20-842de9a3dd32)
-  ![5 2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/0255e0ac-91f4-4fd5-9392-368d8f43aa04)
+  ![5 1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/acfae3db-194e-4a33-9d68-82e935c3b33a)
+![5 2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/6c98bc13-42cc-4942-97f0-e187dff1978b)
 
 - Trang quản lí khách hàng
-  ![6](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/6d8e53c4-f699-4a42-a1ce-6c253b380311)
+![6](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/7b62e7a8-1ba0-4cf0-9702-7b5fcda428fc)
 
 - Chi tiết khách hàng
-  ![7](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/3cbc2154-eefb-45b0-a537-64d6f88fc363)
+ ![7](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/0834655c-0a54-4298-9cf1-773b4b8986d6)
 
 - Trang quản lí đơn hàng
-  ![8](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/76c990ef-847e-4e9f-8ec6-10a70cf77cba)
+![8](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/41ccee0e-8438-4632-b9de-8aed76f32fb8)
 
 - Chi tiết đơn hàng
-  ![9 1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/d804c026-3ece-4d6d-99f1-6f79769df2c0)
-  ![9 2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/d1cbc135-8a9a-4f71-9c21-c38a223ad9d8)
+  ![9 1](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/0df054e3-4c1b-41d8-892e-0e7aa743c650)
+![9 2](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/9232e14f-0601-4edd-b014-1da4470369b1)
 
 - Thông báo
-  ![10](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/cf1b691c-9d59-4a1d-bc29-757f3e2dc9e6)
+  ![10](https://github.com/Hong-Yen/Camellia_Flower_Shop_With_Firebase/assets/94109674/dea3abb2-b1a7-4aa5-b405-2895169dfdd1)
