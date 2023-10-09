@@ -7,12 +7,12 @@ Bài tập lớn cuối kì môn phát triển ứng dụng web (CT449).
 Sử dụng framework VueJS và nền tảng Firebase để hỗ trợ authentication, lưu trữ và kết nối realtime tới database, và cả hosting.
 
 ## :sunflower: Link website
+### :cherries: Trang web cho client
+- https://camelliaflower.web.app
 ### :cherries: Trang web cho admin
 - https://camelliaflower-admin.web.app
 - Email: admin@gmail.com
 - Mật khẩu: admin181103
-### :cherries: Trang web cho client
-- https://camelliaflower.web.app
 
 ## :sunflower: Cài đặt
 
